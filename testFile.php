@@ -22,4 +22,9 @@ class TestFile
     {
         // just seeing if it picks up another function
     }
+    
+    function yetAnother()
+    {
+        // adding another function to test 2 commits
+    }
 }
