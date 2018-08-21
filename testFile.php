@@ -1,5 +1,5 @@
 <?php
-// this file is to test applying a git patch from github to gitlab using their respective APIs
+namespace SomeNamespace;
 
 use Rafiq\Faked\Namespace;
 use Another\Fake\Namespace;
@@ -21,10 +21,5 @@ class TestFile
     function another()
     {
         // just seeing if it picks up another function
-    }
-    
-    function yetAnother()
-    {
-        // adding another function to test 2 commits
     }
 }
